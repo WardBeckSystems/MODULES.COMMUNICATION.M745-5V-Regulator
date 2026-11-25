@@ -1,5 +1,5 @@
 # 1974 - M745 - DOC - NOTE FOR COMPONENT LAYOUT SEE.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1974 (found in this ad: "DATE SEPT 74")
@@ -80,7 +80,7 @@ QW TraI TEX 15 s00-1-74
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M745/1974 - M745 - DOC - NOTE FOR COMPONENT LAYOUT SEE.png",
+ "file": "Modules/COMMUNICATION/M745/SCHEMATICS/1974 - M745 - DOC - NOTE FOR COMPONENT LAYOUT SEE.png",
  "sha256": "da7d8e754e086985416559e395d7236e153b4effc1a3d6fb1118291f1b11767a",
  "kind": "doc",
  "models": [

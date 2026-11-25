@@ -1,5 +1,5 @@
 # 19xx - M745 - DOC - WBSps.ca - 20210317 11X 17 Scans.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -98,7 +98,7 @@ B
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M745/19xx - M745 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
+ "file": "Modules/COMMUNICATION/M745/MANUALS/19xx - M745 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
  "sha256": "00bd0b1a98c181f250dbd5a48284140fc4f7de926803c68d6cf841cbcc4c011a",
  "kind": "doc",
  "models": [
