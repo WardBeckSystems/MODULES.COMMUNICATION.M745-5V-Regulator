@@ -18,6 +18,18 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 - **1974** (labelled): `DATE SEPT 74` — …SS MOD ICKD: USED ON MATL WBS WARD-BECK SySTEMS LT DRN. GEB DATE SEPT 74 CKD Rr SCALE TOLS _ N M 745 B 5 VoLt 3 AMP REGLLATo SCHEMAT…
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 7–298 mm up
+- **Outlines:** line 915 rings, 7,355 straight (10,143 mm) / 1,618 curved (1,405 mm); text 370 rings, 3,221 straight (3,235 mm) / 843 curved (993 mm); tb 56 rings, 322 straight (394 mm) / 54 curved (53.2 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.4 @ (71.7, 97.2), r 2.4 @ (102.7, 97.8)
+- **Closed boxes:** 28 (22 in the title block); named: z1 LM323k; FIMISH
+- **Words (OCR):** 51 in 45 lines: 4 A · z1 · LM323k · Ci · c2 · 5 V DC · I0 · To 20 V DC · 1/35 · 10/25 · REGULATED · UNREGULATED
+- **Title block:** (157, 28)–(392, 77) mm: ISS MODIICKD · USED ON · MATL · WARD-BECK · WBS · DRN · GEB · M 745 B · DATE SEPT 74 5 VoLt · AMP · FIMISH · CKD · SCHEMATIC · SCALE · TOLS · 745 · 02 00 3
+
+Every curve, box, word and wire group: [1974 - M745 - DOC - NOTE FOR COMPONENT LAYOUT SEE (traced).json](../SCHEMATICS/1974%20-%20M745%20-%20DOC%20-%20NOTE%20FOR%20COMPONENT%20LAYOUT%20SEE%20%28traced%29.json) (the CAD file: `1974 - M745 - DOC - NOTE FOR COMPONENT LAYOUT SEE (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)
