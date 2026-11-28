@@ -1,5 +1,5 @@
 # 1977 - 745-03-001 - A&B HEATSINK DETAIL - DRN MRW - ENG MRW - ISS 1.jpg
-Wiki page: [M745](../../../../PAGES/M745.md)
+Wiki page: [M745](../)
 
 
 - **Year:** 1977 (title block date)

@@ -1,5 +1,5 @@
 # 1974 - 745-02-003 - M745B 5 VOLT 3 AMP REGULATOR SCHEMATIC - DRN GEB.png
-Wiki page: [M745](../../../../PAGES/M745.md)
+Wiki page: [M745](../)
 
 
 - **Year:** 1974 (title block date)

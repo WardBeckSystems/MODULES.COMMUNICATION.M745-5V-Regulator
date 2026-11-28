@@ -1,6 +1,6 @@
 # M745 5V Regulator · Communication
 
-Ward-Beck Systems M745, 1972|5. Wiki page: [M745 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M745.html)
+Ward-Beck Systems M745, 1972|5. Wiki page: [M745 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M745-5V-Regulator/)
 
 | Folder | What is in it | Files |
 |---|---|---|
